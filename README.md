@@ -2,13 +2,15 @@
 
 ## discord_audio_fix - Let's automate the solving of Discord audio problems
 
-> Author:           Philipp Reuter
+> Author:               Philipp Reuter
 
-> Version:          1.0.0
+> Version:              1.0.0
 
-> Generated:        Jul 12, 2022
+> Generated:            Jul 12, 2022
 
-> Idea based on:    https://www.youtube.com/watch?v=Y9DLLxeY5vo
+> Operating System:     Windows 11
+
+> Idea based on:        https://www.youtube.com/watch?v=Y9DLLxeY5vo
 
 
 ## Introduction
